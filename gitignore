@@ -1,0 +1,24 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+.conda/
+
+# ---- Streamlit secrets (NEVER commit passwords / API keys) ----
+.streamlit/secrets.toml
+
+# ---- Saved client data (may contain personal information) ----
+clients.json
+data/clients.json
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
