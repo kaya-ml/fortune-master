@@ -1,5 +1,5 @@
 streamlit
-sxtwl==2.0.6
+sxtwl
 lunar-python
 lunardate
 ephem
